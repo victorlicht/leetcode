@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.iml" filepath="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindNumbersWithEvenNumberOfDigits/FindNumbersWithEvenNumberOfDigits.iml" filepath="$PROJECT_DIR$/FindNumbersWithEvenNumberOfDigits/FindNumbersWithEvenNumberOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.iml" filepath="$PROJECT_DIR$/FindSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberOfStepsToReduceANumberToZero/NumberOfStepsToReduceANumberToZero.iml" filepath="$PROJECT_DIR$/NumberOfStepsToReduceANumberToZero/NumberOfStepsToReduceANumberToZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeakIndexInAMountainArray/PeakIndexInAMountainArray.iml" filepath="$PROJECT_DIR$/PeakIndexInAMountainArray/PeakIndexInAMountainArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RichestCustomerWealth/RichestCustomerWealth.iml" filepath="$PROJECT_DIR$/RichestCustomerWealth/RichestCustomerWealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunningSumOf_1D_Array/RunningSumOf_1D_Array.iml" filepath="$PROJECT_DIR$/RunningSumOf_1D_Array/RunningSumOf_1D_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+    </modules>
+  </component>
+</project>
