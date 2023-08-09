@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] arr = {1,2,3,4,5,6,7,8,9,10,12,20,55,26,17,8,5,4,2,0};
+        int[] arr = {1};
         System.out.println(peakIndexInMountainArray(arr));
         System.out.println(peakIndex2ndSolution(arr));
     }
